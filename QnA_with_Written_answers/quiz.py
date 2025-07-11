@@ -2,7 +2,7 @@
 sample `questions.txt` file:
 3**3-2+1+2*2+9/3=33.0
 True or False + True and False=True
-8-4=4
+2**3-True=7
 task description:
 - read from `questions.txt`
 - for each question, print out the question and and wait for the user's answer
