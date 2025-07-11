@@ -1,7 +1,7 @@
 """
 sample `questions.txt` file:
 3**3-2+1+2*2+9/3=33.0
-2+2=4
+True or False + True and False=True
 8-4=4
 task description:
 - read from `questions.txt`
