@@ -1,0 +1,1 @@
+A modifiable self book database of JSON created by Python Programming Language where the user can add and store new books in the database, easily delete books from database, and see the list of books in Database and many more.
