@@ -1,0 +1,1 @@
+This is a project made by Python Programming Language to scrape off details like book name, price, rating and other details from  website and creating a file to see assorted books by particular details such as cheapest books, top rated books etc.  
